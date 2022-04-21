@@ -1,0 +1,23 @@
+{
+  "name": "JavaScript_practice",
+  "version": "1.0.0",
+  "description": "Hello this is my repository for practice code of JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunacy-vicius/JavaScript_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lunacy-vicius/JavaScript_practice/issues"
+  },
+  "homepage": "https://github.com/Lunacy-vicius/JavaScript_practice#readme",
+  "dependencies": {
+    "three": "^0.139.2"
+  }
+}
