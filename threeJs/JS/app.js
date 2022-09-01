@@ -32,7 +32,7 @@ box_mesh.rotateX(0.1);
 
 
 //Render
-const renderer=new THREE.WebGLRenderer();
+const renderer = new THREE.WebGLRenderer();
 renderer.setSize(container.clientWidth, container.clientHeight);
 renderer.setPixelRatio(window.devicePixelRatio);
 
